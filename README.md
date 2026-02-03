@@ -84,6 +84,7 @@ export default defineConfig([
         tsconfigRootDir: import.meta.dirname,
       },
       // other options...
+      //Testing branch protection
     },
   },
 ])
